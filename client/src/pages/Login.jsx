@@ -1,0 +1,11 @@
+import React from 'react'
+
+const Login = () => {
+  return (
+    <div>
+      Login here sucker!!!
+    </div>
+  )
+}
+
+export default Login
